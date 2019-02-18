@@ -1,5 +1,7 @@
 # @mseeley/export-from
 
+[![status: CircleCI](https://circleci.com/gh/mseeley/export-from.svg?style=svg)](https://circleci.com/gh/mseeley/export-from) [![status: dependencies](https://david-dm.org/mseeley/export-from.svg)](https://david-dm.org/mseeley/export-from.svg)
+
 `export-from` is a convenience utility to roll-up a subdirectory into named
 exports.
 
