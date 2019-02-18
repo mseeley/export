@@ -3,6 +3,7 @@
   "description": "A convenience utility to roll-up a subsdirectory into named exports",
   "repository": "https://github.com/mseeley/exportFrom.git",
   "license": "MIT",
+  "main": "lib/index.js",
   "version": "0.0.0",
   "devDependencies": {
     "commitlint": "7.5.2",

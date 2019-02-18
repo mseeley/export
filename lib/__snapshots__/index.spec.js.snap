@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rolling up directory into named exports 1`] = `
+Object {
+  "DirectoryPascalCase": "DirectoryPascalCase",
+  "FilePascalCase": "FilePascalCase.js",
+  "directoryCamelCase": "directoryCamelCase",
+  "directoryHyphenated": "--directory--hyphenated-",
+  "fileCamelCase": "fileCamelCase.js",
+  "fileHyphenated": "--file--hyphenated-.js",
+}
+`;
