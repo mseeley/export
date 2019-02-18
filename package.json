@@ -1,7 +1,7 @@
 {
-  "name": "@mseeley/exportFrom",
+  "name": "@mseeley/export-from",
   "description": "A convenience utility to roll-up a subsdirectory into named exports",
-  "repository": "https://github.com/mseeley/exportFrom.git",
+  "repository": "https://github.com/mseeley/export-from.git",
   "license": "MIT",
   "main": "lib/index.js",
   "version": "0.1.0",

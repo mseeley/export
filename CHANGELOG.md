@@ -7,4 +7,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* export directory as roll-up ([34f998c](https://github.com/mseeley/exportFrom/commit/34f998c))
+* export directory as roll-up ([162bca8](https://github.com/mseeley/export-from/commit/162bca8))
