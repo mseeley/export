@@ -4,7 +4,7 @@
   "repository": "https://github.com/mseeley/export-from.git",
   "license": "MIT",
   "main": "lib/index.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "devDependencies": {
     "commitlint": "7.5.2",
     "eslint": "5.14.0",
